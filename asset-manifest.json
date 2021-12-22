@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://planeta05.github.io/csb-moqg9/static/css/main.f29ae65a.chunk.css",
+    "main.js": "https://planeta05.github.io/csb-moqg9/static/js/main.87897e7b.chunk.js",
+    "main.js.map": "https://planeta05.github.io/csb-moqg9/static/js/main.87897e7b.chunk.js.map",
+    "runtime-main.js": "https://planeta05.github.io/csb-moqg9/static/js/runtime-main.3cb9eda3.js",
+    "runtime-main.js.map": "https://planeta05.github.io/csb-moqg9/static/js/runtime-main.3cb9eda3.js.map",
+    "static/js/2.69b67d5d.chunk.js": "https://planeta05.github.io/csb-moqg9/static/js/2.69b67d5d.chunk.js",
+    "static/js/2.69b67d5d.chunk.js.map": "https://planeta05.github.io/csb-moqg9/static/js/2.69b67d5d.chunk.js.map",
+    "index.html": "https://planeta05.github.io/csb-moqg9/index.html",
+    "static/css/main.f29ae65a.chunk.css.map": "https://planeta05.github.io/csb-moqg9/static/css/main.f29ae65a.chunk.css.map",
+    "static/js/2.69b67d5d.chunk.js.LICENSE.txt": "https://planeta05.github.io/csb-moqg9/static/js/2.69b67d5d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3cb9eda3.js",
+    "static/js/2.69b67d5d.chunk.js",
+    "static/css/main.f29ae65a.chunk.css",
+    "static/js/main.87897e7b.chunk.js"
+  ]
+}
